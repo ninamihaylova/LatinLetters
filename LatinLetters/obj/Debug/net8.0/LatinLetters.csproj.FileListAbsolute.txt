@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\LatinLetters\LatinLetters\bin\Debug\net8.0\LatinLetters.exe
+C:\Users\ninag\RiderProjects\LatinLetters\LatinLetters\bin\Debug\net8.0\LatinLetters.deps.json
+C:\Users\ninag\RiderProjects\LatinLetters\LatinLetters\bin\Debug\net8.0\LatinLetters.runtimeconfig.json
+C:\Users\ninag\RiderProjects\LatinLetters\LatinLetters\bin\Debug\net8.0\LatinLetters.dll
+C:\Users\ninag\RiderProjects\LatinLetters\LatinLetters\bin\Debug\net8.0\LatinLetters.pdb
+C:\Users\ninag\RiderProjects\LatinLetters\LatinLetters\obj\Debug\net8.0\LatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\LatinLetters\LatinLetters\obj\Debug\net8.0\LatinLetters.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\LatinLetters\LatinLetters\obj\Debug\net8.0\LatinLetters.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\LatinLetters\LatinLetters\obj\Debug\net8.0\LatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\LatinLetters\LatinLetters\obj\Debug\net8.0\LatinLetters.dll
+C:\Users\ninag\RiderProjects\LatinLetters\LatinLetters\obj\Debug\net8.0\refint\LatinLetters.dll
+C:\Users\ninag\RiderProjects\LatinLetters\LatinLetters\obj\Debug\net8.0\LatinLetters.pdb
+C:\Users\ninag\RiderProjects\LatinLetters\LatinLetters\obj\Debug\net8.0\LatinLetters.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\LatinLetters\LatinLetters\obj\Debug\net8.0\ref\LatinLetters.dll
